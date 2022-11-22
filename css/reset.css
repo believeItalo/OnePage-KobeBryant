@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.home{
+    background-image: url(../imgs/joshua-kantarges-N_7Kb4hpaoU-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

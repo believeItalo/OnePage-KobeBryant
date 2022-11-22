@@ -1,0 +1,21 @@
+header{
+height: 262px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 40px;
+}
+.logo-KobexNike{
+height:262px;
+width:194px;
+}
+.menu-sections{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 48px;   
+font-weight: 500px;}
+
+a{
+    text-decoration: none;
+    color: white;
+}
