@@ -1,5 +1,4 @@
 .section-trajetoria{
-height: 1300px;
 background-image: url(../imgs/bg__section-trajetoria.png);
 background-size:cover;
 }
@@ -16,9 +15,42 @@ background-size:cover;
 .linha-do-tempo{
     display: flex;
     flex-direction: row;
-    align-items: center;
     justify-content: center;
+    
 }
 .retangulo{
+    margin-top: 60px;
     height: 5px;
+    width: 80px;
+}
+.desc-trajetoria{
+    color: white;
+    width: 300px;
+}
+.topico-trajetoria{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img-topico-trajetoria{
+    height: 130px;
+    width: 130px;
+}
+.botao-trajetoria{
+   color: white;
+}
+.botao-img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.botao-trajetoria{
+    display: flex;
+    margin-right: 650px;
+    padding: 30px;
+    background-color:#7C07A6;
+    border-radius: 5%;
 }

@@ -8,3 +8,17 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+html{
+    scroll-behavior: smooth;
+}
+/*responsividade*/
+
+@media(max-width: 640px){
+
+    .home{
+        width: 640px;
+    }
+
+
+
+}
